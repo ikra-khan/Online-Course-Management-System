@@ -8,4 +8,5 @@ add_executable(untitled main.cpp
         user.h
         course.h
         course.cpp
+        content.cpp
 )
